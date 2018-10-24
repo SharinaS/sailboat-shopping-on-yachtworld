@@ -1,2 +1,2 @@
-# sailboat-shopping-on-yachtworld
+# Web Scraping for Sailboats
 A web-scraping program built with Python and the Python libraries Beautiful Soup and Pandas. It collects relevant data from listings of sailboats built between 1990 and 2018 from a website called YachtWorld. Current restrictions to the search data include a boat length of 32-45 feet, and a location near or on the West Coast of the United States. Once data is scraped, it is neatly collected in a .csv file, which can then be opened in excel or numbers for the client to review.
